@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: white;
+}
+.header-left, .header-right {
+    display: flex;
+    align-items: center;
+}
+.header-left i, .header-right i {
+    margin-right: 5px;
+    color: #f5a623;
+}
+.header-left a, .header-right a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.header-right a {
+    color: #f5a623;
+}
+.header-left a{
+    font-size: 8px;
+    font-family: Noto Serif Display;
+}
+.logo {
+    margin: 20px 0;
+}
+.logo img {
+    width: 200px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+.logo img:hover {
+    transform: scale(1.1);
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    background-color: white;
+}
+.nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #a3c86d;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    font-family: Noto Serif Display;
+}
+.nav i {
+    margin-right: 5px;
+    color: #f5a623;
+}
+
+
+
+h2{
+    font-family: "Arial", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #a3c86d;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    margin: 20px 0;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+
+.ngang{
+    border-top: 2px solid #a3c86d;
+}
+
+
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+    margin: 0 50px;
+}
+
+
+/* .product {
+    background-color: #fff; 
+    border-radius: 5px; 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden; 
+    transition: transform 0.3s, box-shadow 0.3s; 
+    border: 1px solid #e0e0e0; 
+} */
+
+.product:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2); 
+}
+
+.product {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color:#375807;
+}
+
+.product img {
+    max-width: 200px;  
+    height: auto;
+    border-radius: 5px;
+}
+
+.price {
+    text-decoration: line-through;  
+    color: red; 
+    font-weight: bold; 
+}
+
+.sale {
+    font-size: 1.2em;  
+    color: green; 
+}

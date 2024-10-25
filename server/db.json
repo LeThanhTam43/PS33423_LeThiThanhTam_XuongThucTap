@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "name": "Bánh kem Trái cây",
+      "price": 180000,
+      "sale": 140000,
+      "image": "./img/banh2.jpg",
+      "description": "Bánh kem trái cây tươi mát, đầy màu sắc với hương vị tự nhiên.",
+      "id": "9504",
+      "purchaseCount": 26,
+      "storage": "5 - 10°C",
+      "ingredients": "Dâu tươi, bông lan, gelatine"
+    },
+    {
+      "name": "Bánh kem Dâu tây",
+      "price": 160000,
+      "sale": 140000,
+      "image": "./img/banh3.jpg",
+      "description": "Bánh kem dâu tây ngọt ngào với lớp kem dâu tươi ngon.",
+      "id": "1172",
+      "purchaseCount": 18,
+      "storage": "5 - 10°C",
+      "ingredients": "Dâu tươi, kem tươi, đường"
+    },
+    {
+      "name": "Bánh kem vani",
+      "price": 140000,
+      "sale": 130000,
+      "image": "./img/banh4.jpg",
+      "description": "Bánh kem vani truyền thống với hương vị nhẹ nhàng, thanh thoát.",
+      "id": "59c5",
+      "purchaseCount": 30,
+      "storage": "5 - 10°C",
+      "ingredients": "Bột mì, trứng, đường, vani"
+    },
+    {
+      "name": "Bánh kem Tiramisu",
+      "price": 200000,
+      "sale": 140000,
+      "image": "./img/banh5.jpg",
+      "description": "Bánh Tiramisu kiểu Ý với lớp cà phê đậm đà và kem mascarpone.",
+      "id": "d51a",
+      "purchaseCount": 22,
+      "storage": "5 - 10°C",
+      "ingredients": "Bánh savoiardi, mascarpone, cà phê"
+    },
+    {
+      "name": "Bánh kem Matcha",
+      "price": 170000,
+      "sale": 140000,
+      "image": "./img/banh6.jpg",
+      "description": "Bánh kem matcha với hương vị trà xanh thơm ngon và bổ dưỡng.",
+      "id": "19d4",
+      "purchaseCount": 15,
+      "storage": "5 - 10°C",
+      "ingredients": "Bột matcha, kem tươi, đường"
+    },
+    {
+      "name": "Bánh kem Caramel",
+      "price": 190000,
+      "sale": 140000,
+      "image": "./img/banh7.jpg",
+      "description": "Bánh kem caramel ngọt ngào, béo ngậy với lớp caramel thơm lừng.",
+      "id": "3919",
+      "purchaseCount": 10,
+      "storage": "5 - 10°C",
+      "ingredients": "Bơ, đường, kem tươi"
+    },
+    {
+      "name": "Bánh kem Hazelnut",
+      "price": 210000,
+      "sale": 140000,
+      "image": "./img/banh8.jpg",
+      "description": "Bánh kem hạt phỉ thơm ngon, béo ngậy với lớp kem hạt phỉ.",
+      "id": "7609",
+      "purchaseCount": 8,
+      "storage": "5 - 10°C",
+      "ingredients": "Hạt phỉ, kem tươi, đường"
+    },
+    {
+      "name": "Bánh kem kem Bạc Hà",
+      "price": 175000,
+      "sale": 140000,
+      "image": "./img/banh9.jpg",
+      "description": "Bánh kem bạc hà tươi mát với hương vị mát lạnh.",
+      "id": "c7e3",
+      "purchaseCount": 12,
+      "storage": "5 - 10°C",
+      "ingredients": "Kem bạc hà, đường"
+    },
+    {
+      "name": "Bánh kem Oreo",
+      "price": 160000,
+      "sale": 140000,
+      "image": "./img/banh10.jpg",
+      "description": "Bánh kem Oreo với lớp bánh quy giòn và kem ngọt ngào.",
+      "id": "aced",
+      "purchaseCount": 20,
+      "storage": "5 - 10°C",
+      "ingredients": "Bánh Oreo, kem tươi"
+    },
+    {
+      "name": "Bánh kem Trà Xanh",
+      "price": 180000,
+      "sale": 140000,
+      "image": "./img/banh11.jpg",
+      "description": "Bánh kem trà xanh với hương vị thanh mát và ít ngọt.",
+      "id": "487e",
+      "purchaseCount": 14,
+      "storage": "5 - 10°C",
+      "ingredients": "Bột trà xanh, kem tươi"
+    },
+    {
+      "name": "Bánh kem Chanh Leo",
+      "price": 165000,
+      "sale": 140000,
+      "image": "./img/banh12.jpg",
+      "description": "Bánh kem chanh leo chua ngọt, tươi mới rất hấp dẫn.",
+      "id": "35df",
+      "purchaseCount": 11,
+      "storage": "5 - 10°C",
+      "ingredients": "Chanh leo, kem tươi"
+    }
+  ]
+}
